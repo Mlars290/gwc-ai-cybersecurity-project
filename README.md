@@ -1,5 +1,8 @@
 # GWC AI + Cybersecurity Project (2025–26)
 
+> Built for the Girls Who Code 2025–26 Challenge: Cybersecurity + AI  
+> Official challenge details: https://girlswhocode.com/programs/gwc-challenges
+
 ## Overview
 This project is an early-stage concept developed for the Girls Who Code 2025–26 Challenge: Cybersecurity + AI. The goal of this project is to explore how artificial intelligence can be used to help protect people’s digital identities and creative work online while minimizing privacy risks.
 
